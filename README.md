@@ -1,8 +1,10 @@
 # Proyecto Taller de Informática II
 ## Integrantes del Grupo
-- [Tu Nombre]
-- [Nombre 2]
-- [Nombre 3]
+- Castellanos,Federico
+- Nelegatti, Lautaro
+- Argañaras Cordoba, Tomás
+- Ponce, Justo Gabriel
+- Bolomo, Benjamín
 ## Descripción
 Este repositorio contiene el desarrollo de una aplicación web realizada en el marco del Taller de Informática II.
 ## Tecnologías
