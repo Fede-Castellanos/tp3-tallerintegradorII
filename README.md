@@ -1,6 +1,6 @@
 # Proyecto Taller de Informática II
 ## Integrantes del Grupo
-- Castellanos,Federico
+- Castellanos, Federico
 - Nelegatti, Lautaro
 - Argañaras Cordoba, Tomás
 - Ponce, Justo Gabriel
