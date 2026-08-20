@@ -1,13 +1,26 @@
 # Proyecto Taller de Informática II
+
 ## Integrantes del Grupo
-- Castellanos, Federico
-- Nelegatti, Lautaro
-- Argañaras Cordoba, Tomás
-- Ponce, Justo Gabriel
-- Bolomo, Benjamín
+
+* Castellanos, Federico
+* Nelegatti, Lautaro
+* Argañaras Cordoba, Tomás
+* Ponce, Justo Gabriel
+* Bolomo, Benjamín
+
 ## Descripción
+
 Este repositorio contiene el desarrollo de una aplicación web realizada en el marco del Taller de Informática II.
+
 ## Tecnologías
-- Frontend: HTML, CSS, JavaScript
-- Backend: [Lenguaje a definir]
-- Base de Datos: [Sistema a definir]
+
+* Frontend: HTML, CSS, JavaScript
+* Backend: \[Lenguaje a definir]
+* Base de Datos: \[Sistema a definir]
+
+
+
+
+
+Prueba de modificación local
+
